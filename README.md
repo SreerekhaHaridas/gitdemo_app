@@ -1,6 +1,6 @@
 # gitdemo_app
 
-A  Flutter application.
+A new Flutter application.
 
 ## Getting Started
 
